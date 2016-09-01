@@ -1,35 +1,35 @@
 # Setup
-title:               Swaathi Kakarla
-name:                Swaathi
-tagline:             Usually about code, but not always
-description:         'Empathetic human being who loves to code, read, and wonder about the universe. Living the dream at <a href="https://www.skcript.com">Skcript</a> where we build
-<a href="https://www.skcript.com/shrink">Shrink</a> and <a href="https://allt.in">Allt</a>.'
+title:               Ajit Marshall
+name:                Ajit
+tagline:             Live the Adventure,don't work for money let money work for you
+description:         I am a normal soul who loves to tavel, code and read, and wonder about how things work and also a Tech Intern at,<a href="https://www.Vajro.com">Vajro</a>. We built apps for
+                     ecommerce industry,my love for coding started at <a href="https://www.wisilica.com">wisilica</a>which are developing for Internet of Things platform.'
 
-url:                 http://www.swaathi.com
+url:                 http://www.ajitmarshall.com
 # url:                 http://localhost:4000
 
 paginate:            5
 
 github:
-  repo:              https://github.com/swaathi
+  repo:              https://github.com/ajit92
 
 twitter:
-  username: imswaathik
+  username: ajit_marshall
 
 google_analytics:
-  token:             UA-80560343-1
+ # token:             UA-80560343-1
 
-skcript:
+#skcript:
   main:              https://www.skcript.com
   blog:              https://blog.skcript.com
   shrink:            https://www.skcript.com/shrink
   allt:              https://allt.in
 
-# About/contact
+About/contact
 author:
-  name:              Swaathi Kakarla
-  twitter:           https://twitter.com/imswaathik
-  email:             swaathi@skcript.com
+  name:              Ajit Marshall
+  twitter:           https://twitter.com/ajit_marshall
+  email:             ajit@Vajro.com
 
 # Permalinks
 permalink:           pretty

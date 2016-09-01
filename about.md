@@ -3,16 +3,15 @@ layout: page
 title: About
 ---
 
-Empathetic human being who loves to code, read, and wonder about the universe.
+I am a normal soul who loves to tavel, code and read, and wonder about how things work.
 
-Also a small business owner, [Skcript](https://www.skcript.com). We built a
-compression server for the enterprise, [SHRINK](https://www.skcript.com/shrink)
-and a work management tool, [Allt](https://allt.in).
+Also a Tech Intern at, [Vajro](https://www.Vajro.com). We built apps for
+ecommerce industry,my love for coding started at [WISILICA](https://www.wisilica.com)
+which was into developing for Internet of Things.
 
-Currently Ruby and Python are my addictions. I dabble a bit in server management,
-machine learning, and anything that keeps me curious. Also love to speak about
-code, tech and startups.
+Currently Android and travel are my drugs. I lack a bit in my studies,
+and anything that keeps me drousy. Also love to speak about,travel and startups.
 
-Tweet to me [@imswaathik](https://twitter.com/imswaathik).
+Tweet to me [@ajit_marshall](https://twitter.com/ajit_marshall).
 
-Namaste. 🙏
+Vannakkam. 🙏
