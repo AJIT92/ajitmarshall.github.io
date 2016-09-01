@@ -5,8 +5,8 @@ tagline:             Live the Adventure,don't work for money let money work for 
 description:         I am a normal soul who loves to tavel, code and read, and wonder about how things work and also a Tech Intern at,<a href="https://www.Vajro.com">Vajro</a>. We built apps for
                      ecommerce industry,my love for coding started at <a href="https://www.wisilica.com">wisilica</a>which are developing for Internet of Things platform.'
 
-# url:                 http://www.ajitmarshall.com
-url:                 http://localhost:4000
+url:                 http://www.ajitmarshall.com
+#url:                 http://localhost:4000
 
 paginate:            5
 
